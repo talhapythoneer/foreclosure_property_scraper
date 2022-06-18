@@ -12,5 +12,6 @@ Enter the URL and login info at line no, 10-12 in the script and start the bot.
 You would also need to download [chromedriver](https://chromedriver.chromium.org/downloads) according to your OS and Chrome Version.0
 
 
-Thanks & Regards
-TalhaPythoneer
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
